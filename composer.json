@@ -1,0 +1,13 @@
+{
+  "name": "halkawtabdulilah/wisewallet",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Wisewallet\\": "src/"
+    }
+  },
+  "require": {
+    "firebase/php-jwt": "^6.5"
+  }
+}
